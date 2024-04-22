@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter , React Native**
 
-- 📫 How to reach me **adityakumar.devlinux@gmail.com**
+- 📫 How to reach me **adityakumar.devxlinux@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
