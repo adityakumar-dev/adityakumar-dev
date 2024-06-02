@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
 </p>
 
 ### Databases
@@ -34,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" />
 </p>
 
 ### Operating Systems
@@ -58,21 +61,14 @@
 - Full Stack Development
 - Web Development
 - Android Development
-
-## 🚀 Projects
-
-- **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of what the project does and the technologies used.
-- **[Another Project](https://github.com/yourusername/another-repo)**: Brief description of what this project is about.
+- DevOps 
 
 ## 📫 Contact Me
 
 - **Email**: adityakumar.devxlinux@gmail.com
 - **Twitter**: [@adityakumar_dev](https://twitter.com/adityakumar_dev)
 
-## 🌟 Achievements
 
-- Certification in [Course Name](https://linktocertification.com)
-- [Achievement or Award]
 
 ## 📝 Blog
 
