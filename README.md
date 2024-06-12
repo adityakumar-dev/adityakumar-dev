@@ -70,9 +70,7 @@
 
 
 
-## 📝 Blog
 
-Check out my blog at [yourblog.com](https://yourblog.com) where I write about tech, programming, and more.
 
 ## 🌈 Fun Facts
 
