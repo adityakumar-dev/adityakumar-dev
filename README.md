@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Kumar 👋
 
-🎓 I'm a Computer Science student at Government Polytechnic Dehradun.  
+🎓 I'm a Computer Science student at Veer Madho Singh Bhandari Uttarakhand Technical University.  
 🔧 Aspiring DevOps Engineer with a passion for backend development and always looking to improve my frontend skills.
 
 ## 🛠️ Skills
