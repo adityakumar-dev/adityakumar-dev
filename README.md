@@ -34,7 +34,7 @@ const aditya = {
 - 🌱 Exploring **AI system design**, **intelligent interfaces**, and **health-tech** innovation
 - 👯 Looking to collaborate on **AI-powered applications** and **open-source projects**
 - 🏆 **2x Hackathon Winner** (1x National Level, 1x College Level)
-- 🏛️ Developed and deployed a full-stack **government-backed platform** for local e-commerce
+- 🏛️ Developed and deployed a full-stack **government-backed platform** for Visitor & Entry Management System
 - 💬 Ask me about **AI integration**, **offline systems**, **mobile development**, and **emergency response tech**
 - 📫 Reach me at: **adityakumar.devxlinux@gmail.com**
 - 🎯 Actively seeking **research and internship opportunities** in **AI system design** and **health-tech**
@@ -100,7 +100,6 @@ const aditya = {
 
 **Specialties:**
 - 🔋 Building **offline-first** and **low-resource** AI systems
-- 🗣️ Integrating **TTS/STT**, **image understanding**, and **chat interfaces**
 - 🏗️ Developing full-stack systems with **real-time updates** and **emergency response** features
 - 🛡️ Creating **self-hosted** and **privacy-respecting** solutions
 - 🏥 **Healthcare** and **public safety** system design
