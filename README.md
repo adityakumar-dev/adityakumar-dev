@@ -42,6 +42,7 @@ const aditya = {
 ---
 
 ## 🛠️ Tech Stack & Tools
+<div align="center">
 
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,7 +72,6 @@ const aditya = {
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
 
 ### 📱 Additional Mobile Technologies
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -97,6 +97,8 @@ const aditya = {
 ![Bash](https://img.shields.io/badge/bash-%23314152.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
+---
 
 **Specialties:**
 - 🔋 Building **offline-first** and **low-resource** AI systems
